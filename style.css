@@ -5,3 +5,8 @@ h1 {
 h2{
   color:red;
 }
+
+image {
+	max-width:50%;
+	height:auto;
+}
